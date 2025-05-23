@@ -29,7 +29,7 @@ A complete **CRUD application** for managing recipes using **Node.js**, **Expres
 ---
 
 ## API Endpoints:
---------------------------------------------------------------------
+
 | **Method** |     **Endpoint**         |    **Description**       |
 |------------|--------------------------|--------------------------|
 | POST       | /api/recipes/create      | Creates a new receipe    |
@@ -37,7 +37,7 @@ A complete **CRUD application** for managing recipes using **Node.js**, **Expres
 | GET        | /api/recipes/getdata/:id | Retrieves a recipe by ID |
 | PUT        | /api/recipes/update/:id  | Updates a recipe by ID   |
 | DELETE     | /api/recipes/delete/:id  | Deletes a recipe by ID   |
---------------------------------------------------------------------
+
 ---
 
 ## Packages Installed:
