@@ -38,6 +38,12 @@ A complete **CRUD application** for managing recipes using **Node.js**, **Expres
 | PUT        | /api/recipes/update/:id  | Updates a recipe by ID   |
 | DELETE     | /api/recipes/delete/:id  | Deletes a recipe by ID   |
 
+- CreateRecipe: https://recipes-app-4wuh.onrender.com/api/recipes/create
+- GetAllRecipes: https://recipes-app-4wuh.onrender.com/api/recipes/getdata
+- GetRecipeById: https://recipes-app-4wuh.onrender.com/api/recipes/getdata/:id
+- UpdateRecipeById: https://recipes-app-4wuh.onrender.com/api/recipes/update/:id
+- DeleteRecipeById: https://recipes-app-4wuh.onrender.com/api/recipes/delete/:id
+ 
 ---
 
 ## Packages Installed:
