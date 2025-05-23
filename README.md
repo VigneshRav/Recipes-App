@@ -28,35 +28,16 @@ A complete **CRUD application** for managing recipes using **Node.js**, **Expres
 
 ---
 
-## Project Structure:
-
-Recipes-App/
-├── Controllers/
-│ └── recipeController.js
-├── Database/
-│ └── dbConfig.js
-├── Models/
-│ └── recipeModel.js
-├── Routers/
-│ └── recipeRouter.js
-├── .env
-├── .gitignore
-├── index.js
-├── package-lock.json
-├── package.json
-└── README.md
-
----
-
 ## API Endpoints:
-
-**Method**	          **Endpoint**	                  **Description**
-   POST   ------>  /api/recipes/create      ------>  Creates a new recipe
-   GET	  ------>  /api/recipes/getdata	    ------>  Retrieves all recipes
-   GET	  ------>  /api/recipes/getdata/:id	------>  Retrieves a recipe by ID
-   PUT	  ------>  /api/recipes/update/:id	------>  Updates a recipe by ID
-   DELETE ------>  /api/recipes/delete/:id	------>  Deletes a recipe by ID
-
+--------------------------------------------------------------------
+| **Method** |     **Endpoint**         |    **Description**       |
+|------------|--------------------------|--------------------------|
+| POST       | /api/recipes/create      | Creates a new receipe    |
+| GET        | /api/recipes/getdata     | Retrieves all recipes    |
+| GET        | /api/recipes/getdata/:id | Retrieves a recipe by ID |
+| PUT        | /api/recipes/update/:id  | Updates a recipe by ID   |
+| DELETE     | /api/recipes/delete/:id  | Deletes a recipe by ID   |
+--------------------------------------------------------------------
 ---
 
 ## Packages Installed:
@@ -79,11 +60,15 @@ Recipes-App/
 ---
 
 ## Postman API Documentation:
-API tested and documented via Postman
+- API tested and documented via Postman
 
-Documentation link: https://documenter.getpostman.com/view/44995020/2sB2qak2qm
+- Documentation link: https://documenter.getpostman.com/view/44995020/2sB2qak2qm
+
+---
 
 ## 🙋‍♂️ Author & Contact
-Developed by: Vignesh R
-GitHub: @VigneshRav
-Email: vignesh212000@gmail.com
+- Developed by: Vignesh R
+- GitHub: @VigneshRav
+- Email: vignesh212000@gmail.com
+
+---
